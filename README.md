@@ -19,7 +19,7 @@ This project was developed as part of our **Web Engineering course**.
 ## 🚀 Live Project
 
 🔗 **Live Demo:**
-[https://mindcanvas.rf.gd/](https://mindcanvas.rf.gd/](https://assignment12345.infinityfreeapp.com)
+https://assignment12345.infinityfreeapp.com
 
 ---
 
