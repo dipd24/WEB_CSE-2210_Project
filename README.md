@@ -6,7 +6,7 @@ It helps in tracking daily meals, managing expenses, calculating monthly costs, 
 This project was developed as part of our Web Engineering course.
 
 🚀 Live Project
-Live Demo: https://assignment12345.infinityfreeapp.com
+Live Demo: https://mindcanvas.rf.gd/
 🎯 Objectives
 Automate meal and cost calculation
 Reduce manual errors
